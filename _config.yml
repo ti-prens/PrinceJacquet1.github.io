@@ -8,7 +8,7 @@ logo:               'assets/img/crown_200x200.png'
 background:         'assets/img/GPIO_IMG_Background_corrected.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 #locale:             en_US
-url:                http://localhost:4000 #https://princejacquet.github.io/
+url:                 https://princejacquet.github.io/  #http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
