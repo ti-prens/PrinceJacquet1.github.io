@@ -4,7 +4,7 @@ bio:                '“Never discourage anyone who continually makes progress, 
 description:        "Personal Website of Prince Jacquet, a passionate electronic's college student. "
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/crown_200x200.png'
+logo:               'assets/img/favicons/crown_gold_200x200.png'
 background:         'assets/img/GPIO_IMG_Background_corrected.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 #locale:             en_US
