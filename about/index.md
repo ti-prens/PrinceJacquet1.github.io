@@ -10,7 +10,7 @@ comments: false
     ```
 <img style="float: right;" src="/assets/img/matete.png">
 ```
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+
 My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !
 
 My person is 70 to 80% composed of interest in electronics, so there is much of it here.
