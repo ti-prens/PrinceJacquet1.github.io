@@ -8,7 +8,8 @@ comments: false
 
 
 
-<img style="float: right;" src="/assets/img/matete.png">
+
+![](super_hype_me.jpg)
 
 
 My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !
