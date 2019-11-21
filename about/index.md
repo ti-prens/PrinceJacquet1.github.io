@@ -9,16 +9,13 @@ comments: false
 {% capture images %}
     https://raw.githubusercontent.com/PrinceJacquet/PrinceJacquet.github.io/master/super_hype_me.jpg
 {% endcapture %}
-{% include gallery images=images caption="&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;This is Me !" cols=1 %}
+{% include gallery images=images caption="&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;This is Me !" cols=1 %}
 
 
 <center>
 My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !<center>
 
-My person is 70 to 80% composed of interest in electronics, so there is much of it here.
-But I also present other things that I am proud of on this website.
-
-
+My person is 70 to 80% composed of interest in electronics, so there is much of it here. <br>
 
 ## Preview
 
@@ -28,7 +25,14 @@ But I also present other things that I am proud of on this website.
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+See how fun and important electronic engineering is to me  [My projetcs](http://taylantatli.github.io/Moon) and how I apply it at World Record Holder Team : [TIM UPS-INSA](http://www.timupsinsa.com/)
+But I also present other things that I am proud of on this website.
+
+
+
+
+
 
 ## Getting Started
 
