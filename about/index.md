@@ -7,7 +7,7 @@ comments: false
     
 
 {% capture images %}
-    https://github.com/PrinceJacquet/PrinceJacquet.github.io/blob/master/super_hype_me.jpg
+    https://raw.githubusercontent.com/PrinceJacquet/PrinceJacquet.github.io/master/super_hype_me.jpg
 {% endcapture %}
 {% include gallery images=images caption="This is Me !" cols=1 %}
 
