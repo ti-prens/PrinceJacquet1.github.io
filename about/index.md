@@ -11,7 +11,7 @@ comments: false
  <img src="/super_hype_me.jpg" alt="hyped_prince" style="width:500px;height:600px;"> 
 
 
-My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !
+<center>My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !<center>
 
 My person is 70 to 80% composed of interest in electronics, so there is much of it here.
 But I also present other things that I am proud of on this website.
