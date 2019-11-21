@@ -8,8 +8,7 @@ comments: false
 
 
 
-
-![](super_hype_me.jpg)
+ <img src="super_hype_me.jpg" alt="hyped_prince" style="width:500px;height:600px;"> 
 
 
 My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !
