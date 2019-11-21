@@ -16,7 +16,7 @@ comments: false
 My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !<center>
 
 My person is 70 to 80% composed of interest in electronics, so there is much of it here. <br>
-
+</br>
 ## Preview
 
 {% capture images %}
