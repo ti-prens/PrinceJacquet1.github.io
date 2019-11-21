@@ -5,19 +5,18 @@ tags: [about, Prince, bio, Jacquet]
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
+    ```
+<img style="float: right;" src="/assets/img/matete.png">
+```
+<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !
+
+My person is 70 to 80% composed of interest in electronics, so there is much of it here.
+But I also present other things that I am proud of on this website.
+
+
 
 ## Preview
 
