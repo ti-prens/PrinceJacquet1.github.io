@@ -12,8 +12,8 @@ comments: false
 {% include gallery images=images caption="&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;This is Me !" cols=1 %}
 
 
-<center>
-My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !</center>
+
+##### My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !
 
 My person is 70 to 80% composed of interest in electronics, so there is much of it here. <br>
 
@@ -23,13 +23,10 @@ My person is 70 to 80% composed of interest in electronics, so there is much of 
     /assets/img/vitesse-exemple.jpg
     /assets/img/functional_diag_exmp.JPG
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Some projects I worked on" cols=2 %}
 
 
 See how fun and important electronic engineering is to me  [My projetcs](https://princejacquet.github.io/projects/) and how I apply it at World Record Holder Team : [TIM UPS-INSA](http://www.timupsinsa.com/)
-
-
-
 
 
 
@@ -44,6 +41,6 @@ Why I love eating ? How I become the best at embedded Programming ?
 
 Some may says that's too ambitious ... Yes, but it's fun !!
 
-Comme along see (if*) **When** I MAKE it ^^
+Comme along, and see (if*) **When** I MAKE it ^^
       
 [what other stuff ? ](https://princejacquet.github.io/posts/){: .btn} 
