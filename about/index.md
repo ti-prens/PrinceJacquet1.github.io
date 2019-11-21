@@ -38,9 +38,9 @@ See how fun and important electronic engineering is to me  [My projetcs](https:/
 But I also present other things that I am proud of on this website.
 
 
-My learning experiences in sports (basketball, ping pong ...), My way of helping student with difficulties, Why I love eating ? ...
+My learning experiences in sports (basketball, ping pong ...), My way of helping student with difficulties ...
 
-How I become the best at embedded Programming !!!
+Why I love eating ? How I become the best at embedded Programming ?
 
 Some may says that's too ambitious ... Yes, but it's fun !!
 
