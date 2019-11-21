@@ -6,8 +6,10 @@ comments: false
 ---
     
 
-
-
+{% capture images %}
+/super_hype_me.jpg
+{% endcapture %}
+{% include gallery images=images caption="Test" cols=2 %}
  <img src="/super_hype_me.jpg" alt="hyped_prince" style="width:500px;height:600px;"> 
 
 
