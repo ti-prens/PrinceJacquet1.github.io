@@ -5,14 +5,14 @@ tags: [about, Prince, bio, Jacquet]
 comments: false
 ---
     
-<center>
+
 {% capture images %}
 https://github.com/PrinceJacquet/PrinceJacquet.github.io/blob/master/super_hype_me.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
 
 
-
+<center>
 My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; and This is My Personal Website !<center>
 
 My person is 70 to 80% composed of interest in electronics, so there is much of it here.
