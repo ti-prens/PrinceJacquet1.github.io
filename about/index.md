@@ -17,7 +17,7 @@ My name is Prince Jacquet  ...  <br>  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 My person is 70 to 80% composed of interest in electronics, so there is much of it here. <br>
 
-## Preview
+## Technical interests
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -26,16 +26,24 @@ My person is 70 to 80% composed of interest in electronics, so there is much of 
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 
-See how fun and important electronic engineering is to me  [My projetcs](http://taylantatli.github.io/Moon) and how I apply it at World Record Holder Team : [TIM UPS-INSA](http://www.timupsinsa.com/)
+See how fun and important electronic engineering is to me  [My projetcs](https://princejacquet.github.io/projects/) and how I apply it at World Record Holder Team : [TIM UPS-INSA](http://www.timupsinsa.com/)
+
+
+
+
+
+
+## Other stuff I enjoy
+
 But I also present other things that I am proud of on this website.
 
 
+My learning experiences in sports (basketball, ping pong ...), My way of helping student with difficulties, Why I love eating ? ...
 
+How I become the best at embedded Programming !!!
 
+Some may says that's too ambitious ... Yes, but it's fun !!
 
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Comme along see (if*) **When** I MAKE it ^^
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn} 
+[what other stuff ? ](https://princejacquet.github.io/posts/){: .btn} 
